@@ -4,6 +4,6 @@ Body Parameters :
 
 username
 password
-grant_type
+grant_type : password
 client_id
 client_secret
