@@ -1,0 +1,10 @@
+
+1) ORGanizer for Salesforce : https://chrome.google.com/webstore/detail/organizer-for-salesforce/lojdmgdchjcfnmkmodggbaafecagllnh
+2) Salesforce inspector : https://chrome.google.com/webstore/detail/salesforce-inspector/aodjmnfhjibkcdimpodiifdjnnncaafh
+3) Salesforce DevTools : https://chrome.google.com/webstore/detail/salesforce-devtools/ehgmhinnhggigkogkbhnbodhbfjgncjf
+4) Salesforce advanced Code searcher : https://chrome.google.com/webstore/detail/salesforce-advanced-code/lnkgcmpjkkkeffambkllliefdpjdklmi
+5) Apex Debugger : https://chrome.google.com/webstore/detail/apex-debugger/mpckkbblhbfngaininanfjpdfjhbncjo
+6) Lightning Studio : https://chrome.google.com/webstore/detail/lightning-studio/ehkpneicmpbdejpoancidgkejlkahjgo
+7) Better Salesforce formula editor : https://chrome.google.com/webstore/detail/better-salesforce-formula/cfjbcfgcaojdoemakjmpeghfahcieigk/
+
+
