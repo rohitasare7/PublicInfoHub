@@ -6,4 +6,4 @@
 5) Apex Debugger : https://chrome.google.com/webstore/detail/apex-debugger/mpckkbblhbfngaininanfjpdfjhbncjo
 6) Lightning Studio : https://chrome.google.com/webstore/detail/lightning-studio/ehkpneicmpbdejpoancidgkejlkahjgo
 7) Salesforce Colored Favicons : https://chrome.google.com/webstore/detail/salesforce-colored-favico/peohlnebahcddpmfaplmilpkgbkkcdho
-8) Workbench Enhancer Beta : https://chrome.google.com/webstore/detail/workbench-enhancer-beta/aeildolmfjhmlbbambcaobkjkhppphod
+
