@@ -1,0 +1,32 @@
+Install Prettier Apex Globally --> npm install -g prettier-plugin-apex
+
+Modify below files --> 
+
+settings.json 
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[apex]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
+
+.prettierrc
+{
+  "trailingComma": "none",
+  "plugins": ["prettier-plugin-apex"],
+  "overrides": [
+    {
+      "files": "**/lwc/**/*.html",
+      "options": { "parser": "lwc" }
+    },
+    {
+      "files": "*.{cmp,page,component}",
+      "options": { "parser": "html" }
+    }
+  ]
+}
