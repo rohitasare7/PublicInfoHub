@@ -1,0 +1,12 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[apex]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "notebook.defaultFormatter": "esbenp.prettier-vscode"
+}
