@@ -12,12 +12,14 @@ settings.json
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[apex]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "notebook.defaultFormatter": "esbenp.prettier-vscode"
 }
 
 .prettierrc
 {
   "trailingComma": "none",
+  "printWidth": 150,
   "plugins": ["prettier-plugin-apex"],
   "overrides": [
     {
